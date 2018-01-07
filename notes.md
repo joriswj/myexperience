@@ -36,7 +36,9 @@ EXPERIENCES
 * setup aws
 * what is ssh
 * ssh on Chromebook
-*
+
+* in order to connect after a restart of the ec2 instance, I used the following command:
+``ssh -i 'location to pem file>.pem' ubuntu@<ip adress>``
 
 
 
