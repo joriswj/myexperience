@@ -53,6 +53,13 @@ NOTES
 
 # Experiences
 
+## using ssh on Chrome OS
+
+* https://zisismaras.me/chromeos/2015/08/21/connecting-to-ec2-from-chromeos.html
+* http://www.mattburns.co.uk/blog/2012/11/15/connecting-to-ec2-from-chromes-secure-shell-using-only-a-pem-file/
+* https://stackoverflow.com/questions/33491370/how-do-i-connect-to-aws-ec2-server-from-chromebook-using-the-secure-shell-extens
+
+
 ## using github on corporate pc
 Ran into some firewall issues.
 The following worked for me:
