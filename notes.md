@@ -31,6 +31,18 @@ get the time and subject and maybe word count from all emails.
 Analyse the behaviour, and try to forecast my workload.
 
 
+EXPERIENCES
+
+* setup aws
+* what is ssh
+* ssh on Chromebook
+
+* in order to connect after a restart of the ec2 instance, I used the following command:
+``ssh -i 'location to pem file>.pem' ubuntu@<ip adress>``
+
+
+
+
 RESOURCES
 * setting up AWS (Datacamp article): <https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws>
 * setting up AWS for deeplearning: <https://aws.amazon.com/marketplace/pp/B077GCH38C?qid=1513206300209&sr=0-5&ref_=srh_res_product_title>
